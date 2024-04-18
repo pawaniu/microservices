@@ -1,0 +1,82 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+!.mvn/wrapper/maven-wrapper.jar
+mvnw
+mvnw.cmd
+.mvn
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# Default ignored files
+/shelf/
+/workspace.xml
+!.mvn/wrapper/maven-wrapper.jar
+mvnw
+mvnw.cmd
+.mvn
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### Others ###
+/target/
+/core/target
+/provider/gcp/target
+/core/src/main/resources/config.properties
+/provider/gcp/src/main/resources/config.properties
+/provider/gcp/app-properties.ini
+/core/.classpath
+/core/.project
+/provider/gcp/.classpath
+/provider/gcp/.project
+**/src/test/resources/mock-storage/**
+.classpath
+.project
+.settings/
+.idea
+.idea/
+*.plantuml
+provider/azure/target
+provider/dev-sanity/target
